@@ -1,0 +1,15 @@
+C:\Users\hahah\source\repos\prosto\bin\Debug\net7.0\prosto.exe
+C:\Users\hahah\source\repos\prosto\bin\Debug\net7.0\prosto.deps.json
+C:\Users\hahah\source\repos\prosto\bin\Debug\net7.0\prosto.runtimeconfig.json
+C:\Users\hahah\source\repos\prosto\bin\Debug\net7.0\prosto.dll
+C:\Users\hahah\source\repos\prosto\bin\Debug\net7.0\prosto.pdb
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.csproj.AssemblyReference.cache
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.AssemblyInfoInputs.cache
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.AssemblyInfo.cs
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.csproj.CoreCompileInputs.cache
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.dll
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\refint\prosto.dll
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.pdb
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\prosto.genruntimeconfig.cache
+C:\Users\hahah\source\repos\prosto\obj\Debug\net7.0\ref\prosto.dll
